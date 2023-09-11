@@ -1,1 +1,0 @@
-This is going to be used to document my journey for the Rust and Substrate learning program.
